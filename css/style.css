@@ -1014,15 +1014,15 @@ p {
 
 .portfolioContainer a img {
     margin: 15px auto;
-    width: 30%;
-    height: 30%;
+    width: 100%;
+    height: 100%;
 }
 
 .portfolioContainer1 a img {
     /*margin:15px auto;*/
     margin: 0px auto;
-    width: 30%;
-    height: 30%;
+    width: 100%;
+    height: 100%;
 }
 
 .isotope-item {
